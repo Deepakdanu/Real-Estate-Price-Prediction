@@ -1,0 +1,16 @@
+Model Outputs
+
+
+
+1.Decision Tree:
+    Mean RMSE: 4.105591333773477
+    Standard Deviation: 0.7662040071233837
+
+2.Linear Regression:
+    Mean RMSE: 5.027662913196241
+    Standard Deviation: 1.0602039679590807
+
+3. Random Forest Regressor:
+    Mean RMSE: 3.301399474875845
+    Standard Deviation: 0.680828847065706
+
